@@ -1,5 +1,5 @@
 # Team Name
-
+Henry Stepanus
 ### Team Members
 
 ### Final Proposal
